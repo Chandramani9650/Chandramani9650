@@ -1,4 +1,4 @@
-![logo](https://github.com/Chandramani9650/Chandramani9650/blob/main/ChandramaniGithub.png)
+
 
 <h1 align="center">Hi 👋, I'm Chandramani Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
